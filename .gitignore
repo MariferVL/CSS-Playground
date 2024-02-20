@@ -1,0 +1,25 @@
+# Ignorar archivos de dependencias
+/node_modules
+/packages
+
+# Ignorar archivos compilados
+*.o
+*.pyc
+*.class
+
+# Ignorar directorios de salida de compilación
+/bin
+/out
+/target
+
+# Ignorar archivos generados en tiempo de ejecución
+*.log
+*.lock
+*.tmp
+
+# Ignorar archivos ocultos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de IDE
+.idea/workspace.xml
